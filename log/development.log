@@ -1,0 +1,883 @@
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:34:01) [GET]
+Rendering home/index
+Completed in 7ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:01) [GET]
+
+ActionController::RoutingError (No route matches "/promo.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/bggrad.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/promo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/logo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:01) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/submitbtn.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:34:33) [GET]
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:33) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/bggrad.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:33) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/promo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:33) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/logo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:33) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/submitbtn.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:34:34) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/bggrad.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/promo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/logo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:34:34) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/submitbtn.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:35:29) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/bggrad.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/promo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/logo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:35:29) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/submitbtn.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:37:06) [GET]
+Rendering home/index
+Completed in 5ms (View: 4, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:37:06) [GET]
+
+ActionController::RoutingError (No route matches "/public/stylesheets/promo.css" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:37:06) [GET]
+
+ActionController::RoutingError (No route matches "/public/javascripts/placeholder.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:37:06) [GET]
+
+ActionController::RoutingError (No route matches "/public/javascripts/content.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:40:25) [GET]
+Rendering home/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:40:25) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/bggrad.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:40:25) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/promo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:40:25) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/logo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:40:25) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/submitbtn.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:42:22) [GET]
+Rendering home/index
+Completed in 3ms (View: 1, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:42:22) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/bggrad.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:42:22) [GET]
+
+ActionController::RoutingError (No route matches "/stylesheets/promo.jpg" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:43:01) [GET]
+Rendering home/index
+Completed in 3ms (View: 2, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:47:15) [GET]
+Rendering home/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:47:15) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/jquery.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:48:41) [GET]
+Rendering home/index
+Completed in 7ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:48:41) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:48:41) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+Rendering home/index
+Completed in 8ms (View: 6, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-1.5.1.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-ui-1.8.11.custom.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.cookie.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.placehold-0.3.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/fancybox/jquery.fancybox-1.3.4.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/twitlimit-0.2.0.compressed.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/tiptip/jquery.tipTip.minified.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.query-2.1.7.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:31) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.adapter.jquery.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.liveready-min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-1.5.1.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-ui-1.8.11.custom.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.cookie.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.placehold-0.3.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/fancybox/jquery.fancybox-1.3.4.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/twitlimit-0.2.0.compressed.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/tiptip/jquery.tipTip.minified.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.query-2.1.7.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.adapter.jquery.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.liveready-min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:32) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+Rendering home/index
+Completed in 6ms (View: 4, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-1.5.1.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-ui-1.8.11.custom.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.cookie.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.placehold-0.3.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/fancybox/jquery.fancybox-1.3.4.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/twitlimit-0.2.0.compressed.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/tiptip/jquery.tipTip.minified.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.query-2.1.7.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.adapter.jquery.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.liveready-min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-1.5.1.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-ui-1.8.11.custom.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.cookie.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.placehold-0.3.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/fancybox/jquery.fancybox-1.3.4.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/twitlimit-0.2.0.compressed.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/tiptip/jquery.tipTip.minified.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.query-2.1.7.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.adapter.jquery.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.liveready-min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:49:35) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+Rendering home/index
+Completed in 10ms (View: 8, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-1.5.1.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-ui-1.8.11.custom.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.cookie.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.placehold-0.3.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/fancybox/jquery.fancybox-1.3.4.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/twitlimit-0.2.0.compressed.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/tiptip/jquery.tipTip.minified.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.query-2.1.7.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.adapter.jquery.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.liveready-min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:27) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-1.5.1.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery-ui-1.8.11.custom.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.cookie.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.placehold-0.3.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/fancybox/jquery.fancybox-1.3.4.pack.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/twitlimit-0.2.0.compressed.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/tiptip/jquery.tipTip.minified.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.query-2.1.7.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.adapter.jquery.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/history.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.liveready-min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing ApplicationController#index (for 127.0.0.1 at 2011-09-10 21:51:28) [GET]
+
+ActionController::RoutingError (No route matches "/javascripts/3rdparty/jquery.validate.min.js" with {:method=>:get}):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:52:02) [GET]
+Rendering home/index
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home]
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-09-10 21:57:42) [GET]
+Rendering home/index
+Completed in 8ms (View: 7, DB: 0) | 200 OK [http://localhost/]

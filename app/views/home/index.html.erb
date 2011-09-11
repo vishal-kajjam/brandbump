@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta http-equiv="Content-type" content="text/html; charset=utf-8" />
+  	<title>Brand Bump Promo</title>
+<meta name="description" content="We are looking for young hungry and new market seeking brands">
+<!-- <link rel="stylesheet" href="/public/stylesheets/promo.css"> -->
+<%=stylesheet_link_tag 'promo.css'%>
+<%=javascript_include_tag 'placeholder.js', 'content.js'%>
+
+<!-- <script type="text/javascript" src="/public/javascripts/placeholder.js"></script>
+<script type="text/javascript" src="/public/javascripts/content.js"></script> -->
+</head>
+<body>
+<div id="wrapper" style="height: 700">
+	<div id="logo">	
+	</div>
+	<div id="counter">
+		<label id="counterid">40</label>
+	</div>
+	
+	<form action="/thankyou" method="get">
+  		<div id="Edit1">
+    		<input type="text" placeholder="Only the Young &amp; Hungry apply" />
+  		</div>
+
+  		<div id="Edit2">
+    		<input type="button" class="submitbtn" name="submitButton" value=""/>
+  		</div>
+	</form>
+</div>
+</body>
+</html>

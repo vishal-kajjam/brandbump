@@ -1,0 +1,87 @@
+* {
+margin:0;
+padding:0;
+}
+
+body {
+	background: url(/images/bggrad.jpg) repeat;
+}
+
+#wrapper {
+	position:absolute;
+	top:  0px;
+	left: 0px;
+	height: 768px;
+	width: 1024px;
+	background: url(/images/promo.jpg) no-repeat;
+}
+
+
+
+form #Edit1 { 
+	position: absolute; 
+   	top:    550px; 
+    left:   326px; 
+    width:  121px; 
+}
+
+form #Edit1 input {
+	height: 20px;
+	width: 220px;
+	padding: 5px;
+}
+
+form #Edit2 { 
+	position: absolute; 
+   	top:    545px; 
+    left:   575px; 
+    width:  121px; 
+}
+
+ /*match placeholder/watermark padding to border+padding for input element*/
+label.placeholder {
+cursor: text;
+padding: 4px 4px 4px 4px;
+color: #999999;
+}
+/* html5 placeholder support */
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+color:#999999;
+}
+input:placeholder, textarea:placeholder {
+color:#999999;
+}
+
+.submitbtn {
+	background: url(/images/submitbtn.jpg);
+	margin:0;
+	border:0;
+	width: 195px;
+	height: 42px;
+}
+
+#logo {
+	background: url(/images/logo.jpg);
+	margin:0;
+	border:0;
+	width: 212px;
+	height: 55px;
+	position: absolute;
+	top: 200px;
+	left: 420px;
+}
+
+#counterid {
+    background-color: #1a1a1a;
+    color: #FFFFFF;
+    font-size: 80px;
+	font-weight: bold; 
+	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;  
+   }
+
+#counter {
+	position: absolute;
+	top:414px;
+	left:377px;
+	padding: 6px;
+}
